@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+qdrant-client==1.5.2
+sentence-transformers
+transformers[torch]
+torch
+pydantic
+psycopg2-binary
+sqlalchemy
+python-multipart
+redis
+requests
+uvicorn
+python-dotenv
